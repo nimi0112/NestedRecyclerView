@@ -3,6 +3,10 @@ Implementation of Nested RecyclerView which can be customized according to needs
 
 A simple horizontal recyclerView inside vertical recyclerView
 
+![Output sample](https://github.com/nimi0112/NestedRecyclerView/blob/master/preview.gif)
+
+
+
 The MIT License (MIT)
 Copyright © 2018 
 
